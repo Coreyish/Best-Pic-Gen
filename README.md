@@ -1,0 +1,2 @@
+# Best-Pic-Gen
+This application enables freelance web developers to create simple logos for clients without hiring a graphic designer. It uses inquirer to prompt users for logo preferences (text, color, shape). After answering the prompts, an SVG file generates the logo. It's my first time implementing unit testing, ensuring correct shapes and colors. This project highlights backend developer capabilities without a UI. This project is not done unforuntate, i still have differnet classes to define and code , i need to code some features to get the app running  
